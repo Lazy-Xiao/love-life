@@ -1,0 +1,19 @@
+{
+    "id": "kuya-amap-walking",
+    "displayName": "高德地图APP端JSAPI步行路径导航组件",
+    "version": "1.0.1",
+    "description": "基于高德地图JSAPI制作的APP端步行路径导航组件，只需提供起止坐标自动生成路径",
+    "keywords": [
+        "高德地图",
+        "amap",
+        "步行路径",
+        "renderjs",
+        "vue2"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
